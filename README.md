@@ -36,11 +36,11 @@ Bu proje, Unity ile geliştirilen bir 3D görselleştirme uygulamasıdır. Amaç
 Bu projede kullanılan kaynaklara ve dosyalara aşağıdaki bağlantılardan ulaşabilirsiniz.
 
 # Dokümanlar / Documents
-[SaaS_Analizi.pdf](https://github.com/user-attachments/files/20860685/SaaS_Analizi.pdf)
-[THS_Belgesi.pdf](https://github.com/user-attachments/files/20860688/THS_Belgesi.pdf)
-![ths_gantt_chart](https://github.com/user-attachments/assets/70339651-c6fa-421b-aa54-f1fd26a74d9f)
-![class](https://github.com/user-attachments/assets/b2d5a230-b2d4-41f7-90a5-47280f1d580c)
-![usecase2](https://github.com/user-attachments/assets/367239bb-294f-4fc7-bb2b-39da606fbf71)
+•[SaaS_Analizi.pdf](https://github.com/user-attachments/files/20860685/SaaS_Analizi.pdf)
+•[THS_Belgesi.pdf](https://github.com/user-attachments/files/20860688/THS_Belgesi.pdf)
+•![ths_gantt_chart](https://github.com/user-attachments/assets/70339651-c6fa-421b-aa54-f1fd26a74d9f)
+•![class](https://github.com/user-attachments/assets/b2d5a230-b2d4-41f7-90a5-47280f1d580c)
+•![usecase2](https://github.com/user-attachments/assets/367239bb-294f-4fc7-bb2b-39da606fbf71)
 
 
 
