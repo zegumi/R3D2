@@ -1,0 +1,5 @@
+sceneSetups:
+- path: "Assets/kay\u0131t/BugOyunu.unity"
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0

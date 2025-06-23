@@ -1,0 +1,1656 @@
+fileFormatVersion: 2
+guid: 35d5cfec600cc074aa19a3488d3da670
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1892093712593075870
+    second: Game Boy Advance - One Piece - Collections_0
+  - first:
+      213: 5206213409532529156
+    second: Game Boy Advance - One Piece - Collections_1
+  - first:
+      213: 5092216342829358951
+    second: Game Boy Advance - One Piece - Collections_2
+  - first:
+      213: 5505605065511535765
+    second: Game Boy Advance - One Piece - Collections_3
+  - first:
+      213: -2066378058438371308
+    second: Game Boy Advance - One Piece - Collections_4
+  - first:
+      213: 8610377309990080736
+    second: Game Boy Advance - One Piece - Collections_5
+  - first:
+      213: -4116806604031474942
+    second: Game Boy Advance - One Piece - Collections_6
+  - first:
+      213: -1536179071767856177
+    second: Game Boy Advance - One Piece - Collections_7
+  - first:
+      213: 3792754752270327672
+    second: Game Boy Advance - One Piece - Collections_8
+  - first:
+      213: 5363406721138263878
+    second: Game Boy Advance - One Piece - Collections_9
+  - first:
+      213: 7948727434955326152
+    second: Game Boy Advance - One Piece - Collections_10
+  - first:
+      213: 5798661901043659878
+    second: Game Boy Advance - One Piece - Collections_11
+  - first:
+      213: 8831372075968291274
+    second: Game Boy Advance - One Piece - Collections_12
+  - first:
+      213: 7102409890947620952
+    second: Game Boy Advance - One Piece - Collections_13
+  - first:
+      213: 9108534097508864666
+    second: Game Boy Advance - One Piece - Collections_14
+  - first:
+      213: 9116750617445126390
+    second: Game Boy Advance - One Piece - Collections_15
+  - first:
+      213: 7325588964896718377
+    second: Game Boy Advance - One Piece - Collections_16
+  - first:
+      213: 3791957473826522621
+    second: Game Boy Advance - One Piece - Collections_17
+  - first:
+      213: 2936037574641198143
+    second: Game Boy Advance - One Piece - Collections_18
+  - first:
+      213: 1051484739091419347
+    second: Game Boy Advance - One Piece - Collections_19
+  - first:
+      213: 5172623633081427720
+    second: Game Boy Advance - One Piece - Collections_20
+  - first:
+      213: 245836512408712086
+    second: Game Boy Advance - One Piece - Collections_21
+  - first:
+      213: 3301383691845061400
+    second: Game Boy Advance - One Piece - Collections_22
+  - first:
+      213: -8736048791204440729
+    second: Game Boy Advance - One Piece - Collections_23
+  - first:
+      213: 8142259057492425097
+    second: Game Boy Advance - One Piece - Collections_24
+  - first:
+      213: 2830377429129762885
+    second: Game Boy Advance - One Piece - Collections_25
+  - first:
+      213: 8844001150232071528
+    second: Game Boy Advance - One Piece - Collections_26
+  - first:
+      213: 6116508582133052951
+    second: Game Boy Advance - One Piece - Collections_27
+  - first:
+      213: -866451426749165881
+    second: Game Boy Advance - One Piece - Collections_28
+  - first:
+      213: -3752980356814546868
+    second: Game Boy Advance - One Piece - Collections_29
+  - first:
+      213: 5622068403369707706
+    second: Game Boy Advance - One Piece - Collections_30
+  - first:
+      213: 172282544271263528
+    second: Game Boy Advance - One Piece - Collections_31
+  - first:
+      213: -621074810668720144
+    second: Game Boy Advance - One Piece - Collections_32
+  - first:
+      213: 3252905402906293295
+    second: Game Boy Advance - One Piece - Collections_33
+  - first:
+      213: -1923198865880989782
+    second: Game Boy Advance - One Piece - Collections_34
+  - first:
+      213: -862020395002579509
+    second: Game Boy Advance - One Piece - Collections_35
+  - first:
+      213: 1716496153015093305
+    second: Game Boy Advance - One Piece - Collections_36
+  - first:
+      213: -5593004783923227408
+    second: Game Boy Advance - One Piece - Collections_37
+  - first:
+      213: 2934290976903389041
+    second: Game Boy Advance - One Piece - Collections_38
+  - first:
+      213: 1727917118576958783
+    second: Game Boy Advance - One Piece - Collections_39
+  - first:
+      213: -2280764047238978413
+    second: Game Boy Advance - One Piece - Collections_40
+  - first:
+      213: 7222508225818557896
+    second: Game Boy Advance - One Piece - Collections_41
+  - first:
+      213: 7217566510300292292
+    second: Game Boy Advance - One Piece - Collections_42
+  - first:
+      213: -5128173139319384494
+    second: Game Boy Advance - One Piece - Collections_43
+  - first:
+      213: -8294902696502080183
+    second: Game Boy Advance - One Piece - Collections_44
+  - first:
+      213: 848881768405125685
+    second: Game Boy Advance - One Piece - Collections_45
+  - first:
+      213: 2315030034343669565
+    second: Game Boy Advance - One Piece - Collections_46
+  - first:
+      213: 5382330736782248980
+    second: Game Boy Advance - One Piece - Collections_47
+  - first:
+      213: 4703052551101230235
+    second: Game Boy Advance - One Piece - Collections_48
+  - first:
+      213: -1128612944817405148
+    second: Game Boy Advance - One Piece - Collections_49
+  - first:
+      213: 2447768111958005769
+    second: Game Boy Advance - One Piece - Collections_50
+  - first:
+      213: -6302639036170370908
+    second: Game Boy Advance - One Piece - Collections_51
+  - first:
+      213: -5750480318133952385
+    second: Game Boy Advance - One Piece - Collections_52
+  - first:
+      213: -5288109994213503992
+    second: Game Boy Advance - One Piece - Collections_53
+  - first:
+      213: -4595261443226186931
+    second: Game Boy Advance - One Piece - Collections_54
+  - first:
+      213: -7356044592115250009
+    second: Game Boy Advance - One Piece - Collections_55
+  - first:
+      213: 2999829380057029236
+    second: Game Boy Advance - One Piece - Collections_56
+  - first:
+      213: -1268325810515408696
+    second: Game Boy Advance - One Piece - Collections_57
+  - first:
+      213: -6266344166162346116
+    second: Game Boy Advance - One Piece - Collections_58
+  - first:
+      213: -432011255481612205
+    second: Game Boy Advance - One Piece - Collections_59
+  - first:
+      213: -2946214693573421916
+    second: Game Boy Advance - One Piece - Collections_60
+  - first:
+      213: -5508605175568449445
+    second: Game Boy Advance - One Piece - Collections_61
+  - first:
+      213: -2503522422361514304
+    second: Game Boy Advance - One Piece - Collections_62
+  - first:
+      213: 4370930475952774200
+    second: Game Boy Advance - One Piece - Collections_63
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Collections_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 362
+        width: 426
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 261c32b0bceedb5e0800000000000000
+      internalID: -1892093712593075870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Collections_1
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 332
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40acf04238f204840800000000000000
+      internalID: 5206213409532529156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Collections_2
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 329
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f58c9b8cf2ba640800000000000000
+      internalID: 5092216342829358951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Collections_3
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 328
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594086b13a6d76c40800000000000000
+      internalID: 5505605065511535765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Collections_4
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 328
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4189e1f9a10c253e0800000000000000
+      internalID: -2066378058438371308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Collections_5
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 331
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e0da003b843e7770800000000000000
+      internalID: 8610377309990080736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Collections_6
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 197
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 203c8b5943a2ed6c0800000000000000
+      internalID: -4116806604031474942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Collections_7
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 297
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb33e3f5456eaae0800000000000000
+      internalID: -1536179071767856177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Collections_8
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 292
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f5f313a5292a430800000000000000
+      internalID: 3792754752270327672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Collections_9
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 292
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 647836f0ff5ae6a40800000000000000
+      internalID: 5363406721138263878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Collections_10
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 292
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c20ae8ec7d8f4e60800000000000000
+      internalID: 7948727434955326152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Collections_11
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 294
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6647c40c64cf87050800000000000000
+      internalID: 5798661901043659878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Collections_12
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 257
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac1e46bcc165f8a70800000000000000
+      internalID: 8831372075968291274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Collections_13
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 257
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85067276a24d09260800000000000000
+      internalID: 7102409890947620952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Collections_14
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 257
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a929c8aa083086e70800000000000000
+      internalID: 9108534097508864666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Collections_15
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 257
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0d3aa4264358e70800000000000000
+      internalID: 9116750617445126390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Collections_16
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 257
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92eb037d958b9a560800000000000000
+      internalID: 7325588964896718377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Collections_17
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 221
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df541d65b3dbf9430800000000000000
+      internalID: 3791957473826522621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Collections_18
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 222
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3420bb4e96eeb820800000000000000
+      internalID: 2936037574641198143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Collections_19
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 223
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d0d9489ccf979e00800000000000000
+      internalID: 1051484739091419347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Collections_20
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 221
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 807eb9ed9c9d8c740800000000000000
+      internalID: 5172623633081427720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Collections_21
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 221
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69331fa6103696300800000000000000
+      internalID: 245836512408712086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Collections_22
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 184
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b41bbe9fed0dd20800000000000000
+      internalID: 3301383691845061400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Collections_23
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 183
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76557c3f8e153c680800000000000000
+      internalID: -8736048791204440729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Collections_24
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 183
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 989fa07297d1ff070800000000000000
+      internalID: 8142259057492425097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Collections_25
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 187
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 548109b9645874720800000000000000
+      internalID: 2830377429129762885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Collections_26
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 183
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d8ab840343cba70800000000000000
+      internalID: 8844001150232071528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Collections_27
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 111
+        width: 240
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7163ba7162432e450800000000000000
+      internalID: 6116508582133052951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Collections_28
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 150
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce4c7d940fb9f3f0800000000000000
+      internalID: -866451426749165881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Collections_29
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 148
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c48dc07ef3cbaebc0800000000000000
+      internalID: -3752980356814546868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Collections_30
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 147
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab88cc50d69950e40800000000000000
+      internalID: 5622068403369707706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Collections_31
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 147
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8270a4caf02146200800000000000000
+      internalID: 172282544271263528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Collections_32
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 147
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ffd52310cf7167f0800000000000000
+      internalID: -621074810668720144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Collections_33
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 109
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f24bd24ba34a42d20800000000000000
+      internalID: 3252905402906293295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Collections_34
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 109
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aafbabe22dc6f45e0800000000000000
+      internalID: -1923198865880989782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Collections_35
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 109
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc5bab6940d7904f0800000000000000
+      internalID: -862020395002579509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Collections_36
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 110
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9380ac2282832d710800000000000000
+      internalID: 1716496153015093305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Collections_37
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 108
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f4123338c7a162b0800000000000000
+      internalID: -5593004783923227408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Collections_38
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 77
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17fd5f1d812b8b820800000000000000
+      internalID: 2934290976903389041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Collections_39
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 72
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3d9816e67bcaf710800000000000000
+      internalID: 1727917118576958783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Collections_40
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 72
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 394a6dbde291950e0800000000000000
+      internalID: -2280764047238978413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Collections_41
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 72
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cd704307f08b3460800000000000000
+      internalID: 7222508225818557896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Collections_42
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 72
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c464353082f92460800000000000000
+      internalID: 7217566510300292292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Collections_43
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 93
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2561b2433b115d8b0800000000000000
+      internalID: -5128173139319384494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Collections_44
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 93
+        width: 104
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94d409022f592ec80800000000000000
+      internalID: -8294902696502080183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Collections_45
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 78
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ac7168875d7cb00800000000000000
+      internalID: 848881768405125685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Collections_46
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 78
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3f2a69fc83a02020800000000000000
+      internalID: 2315030034343669565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Collections_47
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 74
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c829dc941e1ba40800000000000000
+      internalID: 5382330736782248980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Collections_48
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 74
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c226c9069944140800000000000000
+      internalID: 4703052551101230235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Collections_49
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 13
+        width: 128
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 423404f918c5650f0800000000000000
+      internalID: -1128612944817405148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Collections_50
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 41
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90819c5012838f120800000000000000
+      internalID: 2447768111958005769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Collections_51
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 41
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a00e8d70378888a0800000000000000
+      internalID: -6302639036170370908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Collections_52
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 41
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7020c53e903230b0800000000000000
+      internalID: -5750480318133952385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Collections_53
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 41
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c06b55afbdc96b0800000000000000
+      internalID: -5288109994213503992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Collections_54
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 41
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b447a601a5a30c0800000000000000
+      internalID: -4595261443226186931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Collections_55
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 66
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac890fda641ae990800000000000000
+      internalID: -7356044592115250009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Collections_56
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 66
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a54196de881a920800000000000000
+      internalID: 2999829380057029236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Collections_57
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 54
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c805cc2560066ee0800000000000000
+      internalID: -1268325810515408696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Collections_58
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 54
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f4d8f6e297909a0800000000000000
+      internalID: -6266344166162346116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Collections_59
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 5
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3584c025d00310af0800000000000000
+      internalID: -432011255481612205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Collections_60
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 5
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4158d8851fc17d0800000000000000
+      internalID: -2946214693573421916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Collections_61
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 5
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b504d5657c08d83b0800000000000000
+      internalID: -5508605175568449445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Collections_62
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 5
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce9aeffe93b14dd0800000000000000
+      internalID: -2503522422361514304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Collections_63
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 5
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c18151c1aa8ac30800000000000000
+      internalID: 4370930475952774200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

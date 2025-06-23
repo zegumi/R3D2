@@ -1,0 +1,1416 @@
+fileFormatVersion: 2
+guid: 26d5f5ea682f35d4d93452ffa1090a1f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1889875413493401014
+    second: Game Boy Advance - One Piece - Navy Base Gunman_0
+  - first:
+      213: 5896644098375962788
+    second: Game Boy Advance - One Piece - Navy Base Gunman_1
+  - first:
+      213: -1629799833095328758
+    second: Game Boy Advance - One Piece - Navy Base Gunman_2
+  - first:
+      213: 9110026905521950383
+    second: Game Boy Advance - One Piece - Navy Base Gunman_3
+  - first:
+      213: -4891299741855652660
+    second: Game Boy Advance - One Piece - Navy Base Gunman_4
+  - first:
+      213: -7842911293154360724
+    second: Game Boy Advance - One Piece - Navy Base Gunman_5
+  - first:
+      213: -2021980808431219842
+    second: Game Boy Advance - One Piece - Navy Base Gunman_6
+  - first:
+      213: -4773879475415571983
+    second: Game Boy Advance - One Piece - Navy Base Gunman_7
+  - first:
+      213: 3597937536697825085
+    second: Game Boy Advance - One Piece - Navy Base Gunman_8
+  - first:
+      213: 9089870808593789825
+    second: Game Boy Advance - One Piece - Navy Base Gunman_9
+  - first:
+      213: -6779422591548812676
+    second: Game Boy Advance - One Piece - Navy Base Gunman_10
+  - first:
+      213: -9185820485513209308
+    second: Game Boy Advance - One Piece - Navy Base Gunman_11
+  - first:
+      213: -8179100942519190380
+    second: Game Boy Advance - One Piece - Navy Base Gunman_12
+  - first:
+      213: 3044066183784054087
+    second: Game Boy Advance - One Piece - Navy Base Gunman_13
+  - first:
+      213: 2225985047841197523
+    second: Game Boy Advance - One Piece - Navy Base Gunman_14
+  - first:
+      213: -965683275007607476
+    second: Game Boy Advance - One Piece - Navy Base Gunman_15
+  - first:
+      213: -6725912972979556679
+    second: Game Boy Advance - One Piece - Navy Base Gunman_16
+  - first:
+      213: -8490337651169642352
+    second: Game Boy Advance - One Piece - Navy Base Gunman_17
+  - first:
+      213: 1458741935857359104
+    second: Game Boy Advance - One Piece - Navy Base Gunman_18
+  - first:
+      213: 3959986733215252524
+    second: Game Boy Advance - One Piece - Navy Base Gunman_19
+  - first:
+      213: 658267808200786928
+    second: Game Boy Advance - One Piece - Navy Base Gunman_20
+  - first:
+      213: -5638200096048653901
+    second: Game Boy Advance - One Piece - Navy Base Gunman_21
+  - first:
+      213: 3981220600135778729
+    second: Game Boy Advance - One Piece - Navy Base Gunman_22
+  - first:
+      213: -2033933044804466714
+    second: Game Boy Advance - One Piece - Navy Base Gunman_23
+  - first:
+      213: -2325771260316140822
+    second: Game Boy Advance - One Piece - Navy Base Gunman_24
+  - first:
+      213: -5724949839995696711
+    second: Game Boy Advance - One Piece - Navy Base Gunman_25
+  - first:
+      213: -4971172352021472387
+    second: Game Boy Advance - One Piece - Navy Base Gunman_26
+  - first:
+      213: -5829523259961503910
+    second: Game Boy Advance - One Piece - Navy Base Gunman_27
+  - first:
+      213: -3795750169011430552
+    second: Game Boy Advance - One Piece - Navy Base Gunman_28
+  - first:
+      213: -3050798501366687150
+    second: Game Boy Advance - One Piece - Navy Base Gunman_29
+  - first:
+      213: 7493326907170354902
+    second: Game Boy Advance - One Piece - Navy Base Gunman_30
+  - first:
+      213: -5447214626481834876
+    second: Game Boy Advance - One Piece - Navy Base Gunman_31
+  - first:
+      213: 211844751274626347
+    second: Game Boy Advance - One Piece - Navy Base Gunman_32
+  - first:
+      213: -1734946581649363446
+    second: Game Boy Advance - One Piece - Navy Base Gunman_33
+  - first:
+      213: -6730370188018502284
+    second: Game Boy Advance - One Piece - Navy Base Gunman_34
+  - first:
+      213: 8126863344437131950
+    second: Game Boy Advance - One Piece - Navy Base Gunman_35
+  - first:
+      213: -5473794079750902200
+    second: Game Boy Advance - One Piece - Navy Base Gunman_36
+  - first:
+      213: 877386045463238975
+    second: Game Boy Advance - One Piece - Navy Base Gunman_37
+  - first:
+      213: -9084357298029818407
+    second: Game Boy Advance - One Piece - Navy Base Gunman_38
+  - first:
+      213: -6491167701692539367
+    second: Game Boy Advance - One Piece - Navy Base Gunman_39
+  - first:
+      213: -5478823020283223837
+    second: Game Boy Advance - One Piece - Navy Base Gunman_40
+  - first:
+      213: 6894373063831222760
+    second: Game Boy Advance - One Piece - Navy Base Gunman_41
+  - first:
+      213: -5413741945649870320
+    second: Game Boy Advance - One Piece - Navy Base Gunman_42
+  - first:
+      213: 5276718087273937169
+    second: Game Boy Advance - One Piece - Navy Base Gunman_43
+  - first:
+      213: -7508693899913473091
+    second: Game Boy Advance - One Piece - Navy Base Gunman_44
+  - first:
+      213: 7180660434248793902
+    second: Game Boy Advance - One Piece - Navy Base Gunman_45
+  - first:
+      213: -2072065292766110362
+    second: Game Boy Advance - One Piece - Navy Base Gunman_46
+  - first:
+      213: -1869279421846547319
+    second: Game Boy Advance - One Piece - Navy Base Gunman_47
+  - first:
+      213: 242485086599149064
+    second: Game Boy Advance - One Piece - Navy Base Gunman_48
+  - first:
+      213: -8718435609887871851
+    second: Game Boy Advance - One Piece - Navy Base Gunman_49
+  - first:
+      213: 5858636686483209644
+    second: Game Boy Advance - One Piece - Navy Base Gunman_50
+  - first:
+      213: -5850705290056134366
+    second: Game Boy Advance - One Piece - Navy Base Gunman_51
+  - first:
+      213: -5947016318808265019
+    second: Game Boy Advance - One Piece - Navy Base Gunman_52
+  - first:
+      213: 1945875233961643571
+    second: Game Boy Advance - One Piece - Navy Base Gunman_53
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Navy Base Gunman_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 242
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a3bfc0350d5c5e0800000000000000
+      internalID: -1889875413493401014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Navy Base Gunman_1
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 242
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a05a92d09615d150800000000000000
+      internalID: 5896644098375962788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Navy Base Gunman_2
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 242
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0cac55dfa9c169e0800000000000000
+      internalID: -1629799833095328758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Navy Base Gunman_3
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 240
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae03ed14315d6e70800000000000000
+      internalID: 9110026905521950383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Navy Base Gunman_4
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 242
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc4ebbccccc9e1cb0800000000000000
+      internalID: -4891299741855652660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Navy Base Gunman_5
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 242
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6282ae7bb1682390800000000000000
+      internalID: -7842911293154360724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Navy Base Gunman_6
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 242
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7bcccaea2b70f3e0800000000000000
+      internalID: -2021980808431219842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Navy Base Gunman_7
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 242
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f1a35309e5cfbdb0800000000000000
+      internalID: -4773879475415571983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Navy Base Gunman_8
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 242
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37faee70217ee130800000000000000
+      internalID: 3597937536697825085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Navy Base Gunman_9
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 242
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 183fc681755b52e70800000000000000
+      internalID: 9089870808593789825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Navy Base Gunman_10
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 242
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7299786217aae1a0800000000000000
+      internalID: -6779422591548812676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Navy Base Gunman_11
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 242
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42a9a7edfe8658080800000000000000
+      internalID: -9185820485513209308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Navy Base Gunman_12
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 242
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49cb41b070ffd7e80800000000000000
+      internalID: -8179100942519190380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Navy Base Gunman_13
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 241
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d3a35e012be3a20800000000000000
+      internalID: 3044066183784054087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Navy Base Gunman_14
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 242
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ddc7e37b9944ee10800000000000000
+      internalID: 2225985047841197523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Navy Base Gunman_15
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 242
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4db2a38d243992f0800000000000000
+      internalID: -965683275007607476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Navy Base Gunman_16
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 242
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9beac5759c1c8a2a0800000000000000
+      internalID: -6725912972979556679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Navy Base Gunman_17
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 242
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 098b8e6d3e24c2a80800000000000000
+      internalID: -8490337651169642352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Navy Base Gunman_18
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 242
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0095eb9df0e7e3410800000000000000
+      internalID: 1458741935857359104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Navy Base Gunman_19
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 242
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c200e84f3f2b4f630800000000000000
+      internalID: 3959986733215252524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Navy Base Gunman_20
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 242
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f302ea7513a22900800000000000000
+      internalID: 658267808200786928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Navy Base Gunman_21
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 242
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b9527692e611c1b0800000000000000
+      internalID: -5638200096048653901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Navy Base Gunman_22
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 242
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a18f8bda03204730800000000000000
+      internalID: 3981220600135778729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Navy Base Gunman_23
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 242
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e740870ca406c3e0800000000000000
+      internalID: -2033933044804466714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Navy Base Gunman_24
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 241
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea3b087c5339bfd0800000000000000
+      internalID: -2325771260316140822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Navy Base Gunman_25
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 242
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b9802ed374ec80b0800000000000000
+      internalID: -5724949839995696711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Navy Base Gunman_26
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 242
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b54809519d20bb0800000000000000
+      internalID: -4971172352021472387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Navy Base Gunman_27
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 242
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f0e103b7f591fa0800000000000000
+      internalID: -5829523259961503910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Navy Base Gunman_28
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 226
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86bd1fff459c25bc0800000000000000
+      internalID: -3795750169011430552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Navy Base Gunman_29
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 226
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a9eb44de269a5d0800000000000000
+      internalID: -3050798501366687150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Navy Base Gunman_30
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 226
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d6f3c7ee15adf760800000000000000
+      internalID: 7493326907170354902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Navy Base Gunman_31
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 166
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 484fc35682b9764b0800000000000000
+      internalID: -5447214626481834876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Navy Base Gunman_32
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 164
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d414bcdaf90f200800000000000000
+      internalID: 211844751274626347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Navy Base Gunman_33
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 165
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ee280b64b3ce7e0800000000000000
+      internalID: -1734946581649363446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Navy Base Gunman_34
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 166
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 475374819fbe892a0800000000000000
+      internalID: -6730370188018502284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Navy Base Gunman_35
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 166
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa715f572b68c070800000000000000
+      internalID: 8126863344437131950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Navy Base Gunman_36
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 166
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84eafce294d2904b0800000000000000
+      internalID: -5473794079750902200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Navy Base Gunman_37
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 149
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3998b2b5f91d2c00800000000000000
+      internalID: 877386045463238975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Navy Base Gunman_38
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 149
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd843e1b21ede180800000000000000
+      internalID: -9084357298029818407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Navy Base Gunman_39
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 149
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e9023fd5dbae5a0800000000000000
+      internalID: -6491167701692539367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Navy Base Gunman_40
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 149
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e029c8bd7f47f3b0800000000000000
+      internalID: -5478823020283223837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Navy Base Gunman_41
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 149
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e97eaa06cbbdaf50800000000000000
+      internalID: 6894373063831222760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Navy Base Gunman_42
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 149
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a48e732668ed4b0800000000000000
+      internalID: -5413741945649870320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Navy Base Gunman_43
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 91
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11977d3a42baa3940800000000000000
+      internalID: 5276718087273937169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Navy Base Gunman_44
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 91
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db3d3884ea2cbc790800000000000000
+      internalID: -7508693899913473091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Navy Base Gunman_45
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 111
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ff914ce94d6a360800000000000000
+      internalID: 7180660434248793902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Navy Base Gunman_46
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 107
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66d9241389b8e33e0800000000000000
+      internalID: -2072065292766110362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Navy Base Gunman_47
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 104
+        width: 45
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98493ea054cfe06e0800000000000000
+      internalID: -1869279421846547319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Navy Base Gunman_48
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 42
+        width: 128
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 806721ac6ea7d5300800000000000000
+      internalID: 242485086599149064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Navy Base Gunman_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 71
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c648b4105e10780800000000000000
+      internalID: -8718435609887871851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Navy Base Gunman_50
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 71
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad37e5a60f0e4150800000000000000
+      internalID: 5858636686483209644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Navy Base Gunman_51
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 13
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22194bc798e1ecea0800000000000000
+      internalID: -5850705290056134366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Navy Base Gunman_52
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 23
+        width: 50
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce6bfbaa24f77da0800000000000000
+      internalID: -5947016318808265019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Navy Base Gunman_53
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 23
+        width: 51
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e83813733210b10800000000000000
+      internalID: 1945875233961643571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

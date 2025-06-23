@@ -1,0 +1,5928 @@
+fileFormatVersion: 2
+guid: ccd807b988d86dc40abf48c6eeea9981
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6797843839343763451
+    second: Lufffy_0
+  - first:
+      213: 1248490670435538291
+    second: Lufffy_1
+  - first:
+      213: 523115784426769991
+    second: Lufffy_2
+  - first:
+      213: -2911375403228756955
+    second: Lufffy_3
+  - first:
+      213: -7517884253153468628
+    second: Lufffy_4
+  - first:
+      213: -1796946162964565819
+    second: Lufffy_5
+  - first:
+      213: -8729599384062632444
+    second: Lufffy_6
+  - first:
+      213: -5820742284312577922
+    second: Lufffy_7
+  - first:
+      213: -2102059251351545898
+    second: Lufffy_8
+  - first:
+      213: 8202992068582911185
+    second: Lufffy_9
+  - first:
+      213: -5728572282598426768
+    second: Lufffy_10
+  - first:
+      213: -5796312431809690047
+    second: Lufffy_11
+  - first:
+      213: 8437226736525044673
+    second: Lufffy_12
+  - first:
+      213: -8058761760847892113
+    second: Lufffy_13
+  - first:
+      213: -509505931436292197
+    second: Lufffy_14
+  - first:
+      213: 9072912930423270318
+    second: Lufffy_15
+  - first:
+      213: -8140921530442570449
+    second: Lufffy_16
+  - first:
+      213: 3564258433072488125
+    second: Lufffy_17
+  - first:
+      213: 2701334637925928762
+    second: Lufffy_18
+  - first:
+      213: 6153816783854951673
+    second: Lufffy_19
+  - first:
+      213: -4606083098975231596
+    second: Lufffy_20
+  - first:
+      213: -9084893712413880820
+    second: Lufffy_21
+  - first:
+      213: 1646006648945891547
+    second: Lufffy_22
+  - first:
+      213: 5453995658496455212
+    second: Lufffy_23
+  - first:
+      213: -7146610913897582604
+    second: Lufffy_24
+  - first:
+      213: -4604257753072904893
+    second: Lufffy_25
+  - first:
+      213: 8452371703528006575
+    second: Lufffy_26
+  - first:
+      213: -67483600444584586
+    second: Lufffy_27
+  - first:
+      213: -5761500823020624338
+    second: Lufffy_28
+  - first:
+      213: -5383645356762132004
+    second: Lufffy_29
+  - first:
+      213: -7768115679667336943
+    second: Lufffy_30
+  - first:
+      213: -7052965659599553143
+    second: Lufffy_31
+  - first:
+      213: 2096624776056173937
+    second: Lufffy_32
+  - first:
+      213: 8191435425056473402
+    second: Lufffy_33
+  - first:
+      213: 3331351243745490658
+    second: Lufffy_34
+  - first:
+      213: -7824211596722491802
+    second: Lufffy_35
+  - first:
+      213: -7313330878852792554
+    second: Lufffy_36
+  - first:
+      213: -1527946015473037993
+    second: Lufffy_37
+  - first:
+      213: -3830938615157751940
+    second: Lufffy_38
+  - first:
+      213: -3999777611400671678
+    second: Lufffy_39
+  - first:
+      213: -761036718322170994
+    second: Lufffy_40
+  - first:
+      213: 1923607636510174819
+    second: Lufffy_41
+  - first:
+      213: -7807310591247601064
+    second: Lufffy_42
+  - first:
+      213: 2393864984764635105
+    second: Lufffy_43
+  - first:
+      213: -3389619168381622625
+    second: Lufffy_44
+  - first:
+      213: -1555120905929634716
+    second: Lufffy_45
+  - first:
+      213: 6462426869439642050
+    second: Lufffy_46
+  - first:
+      213: -2762584399389037942
+    second: Lufffy_47
+  - first:
+      213: -5983100310825375951
+    second: Lufffy_48
+  - first:
+      213: -8287678431486281522
+    second: Lufffy_49
+  - first:
+      213: 6906472489157046996
+    second: Lufffy_50
+  - first:
+      213: 702678614219795611
+    second: Lufffy_51
+  - first:
+      213: 3225859792303468123
+    second: Lufffy_52
+  - first:
+      213: 8308295836008486908
+    second: Lufffy_53
+  - first:
+      213: -4395003432607942573
+    second: Lufffy_54
+  - first:
+      213: -470968406926860938
+    second: Lufffy_55
+  - first:
+      213: -3112015519485521365
+    second: Lufffy_56
+  - first:
+      213: -7826689600278121779
+    second: Lufffy_57
+  - first:
+      213: -5640893450055089431
+    second: Lufffy_58
+  - first:
+      213: -8174495935792560903
+    second: Lufffy_59
+  - first:
+      213: 5176807567286263984
+    second: Lufffy_60
+  - first:
+      213: -5275821962683947435
+    second: Lufffy_61
+  - first:
+      213: -6938764512214555553
+    second: Lufffy_62
+  - first:
+      213: 6466447053403655449
+    second: Lufffy_63
+  - first:
+      213: 7276328013279873510
+    second: Lufffy_64
+  - first:
+      213: 3803349411864619992
+    second: Lufffy_65
+  - first:
+      213: 1115686001297066023
+    second: Lufffy_66
+  - first:
+      213: -539331563333964303
+    second: Lufffy_67
+  - first:
+      213: 8484905880749319694
+    second: Lufffy_68
+  - first:
+      213: 5229941239558486756
+    second: Lufffy_69
+  - first:
+      213: -8090012009407084627
+    second: Lufffy_70
+  - first:
+      213: -8342321240331010364
+    second: Lufffy_71
+  - first:
+      213: -7091826189717413291
+    second: Lufffy_72
+  - first:
+      213: 8512142919387933351
+    second: Lufffy_73
+  - first:
+      213: 970175494739630513
+    second: Lufffy_74
+  - first:
+      213: -3822100954556857188
+    second: Lufffy_75
+  - first:
+      213: -7676653225889760744
+    second: Lufffy_76
+  - first:
+      213: -189182156684896290
+    second: Lufffy_77
+  - first:
+      213: -1668062266347568669
+    second: Lufffy_78
+  - first:
+      213: 6095784533998582852
+    second: Lufffy_79
+  - first:
+      213: 2743217145648912234
+    second: Lufffy_80
+  - first:
+      213: -6244901698417081164
+    second: Lufffy_81
+  - first:
+      213: 6584801990467971280
+    second: Lufffy_82
+  - first:
+      213: -9162255139224850836
+    second: Lufffy_83
+  - first:
+      213: 8979224854265781235
+    second: Lufffy_84
+  - first:
+      213: 4832077146157248569
+    second: Lufffy_85
+  - first:
+      213: 3084911436138407219
+    second: Lufffy_86
+  - first:
+      213: -1428505896088077604
+    second: Lufffy_87
+  - first:
+      213: 27795287243786491
+    second: Lufffy_88
+  - first:
+      213: -2214103140141701679
+    second: Lufffy_89
+  - first:
+      213: -1872557072665793687
+    second: Lufffy_90
+  - first:
+      213: -2308645838940238140
+    second: Lufffy_91
+  - first:
+      213: -8890750276850454817
+    second: Lufffy_92
+  - first:
+      213: 3191783839249582966
+    second: Lufffy_93
+  - first:
+      213: -1879077052472517133
+    second: Lufffy_94
+  - first:
+      213: 278863279493584231
+    second: Lufffy_95
+  - first:
+      213: -7821257670577544780
+    second: Lufffy_96
+  - first:
+      213: -1319567079210956393
+    second: Lufffy_97
+  - first:
+      213: 762502766613584341
+    second: Lufffy_98
+  - first:
+      213: 4657471732404298602
+    second: Lufffy_99
+  - first:
+      213: 4144453915565639836
+    second: Lufffy_100
+  - first:
+      213: 473232394387127196
+    second: Lufffy_101
+  - first:
+      213: 3253188799649441290
+    second: Lufffy_102
+  - first:
+      213: -2995935837846928423
+    second: Lufffy_103
+  - first:
+      213: -5285699201502723027
+    second: Lufffy_104
+  - first:
+      213: 1216049742755905934
+    second: Lufffy_105
+  - first:
+      213: -4504448799102892827
+    second: Lufffy_106
+  - first:
+      213: -6050555728457927242
+    second: Lufffy_107
+  - first:
+      213: -5593503397976999429
+    second: Lufffy_108
+  - first:
+      213: -5256147873270643035
+    second: Lufffy_109
+  - first:
+      213: 954101488364169935
+    second: Lufffy_110
+  - first:
+      213: 6775644675020703060
+    second: Lufffy_111
+  - first:
+      213: 4796565908077543878
+    second: Lufffy_112
+  - first:
+      213: 2978983330995987876
+    second: Lufffy_113
+  - first:
+      213: 7509623108714704769
+    second: Lufffy_114
+  - first:
+      213: -7837387217759764308
+    second: Lufffy_115
+  - first:
+      213: -1062694780609017348
+    second: Lufffy_116
+  - first:
+      213: 7030343037715342391
+    second: Lufffy_117
+  - first:
+      213: -6068633061128859718
+    second: Lufffy_118
+  - first:
+      213: 1333590408917420072
+    second: Lufffy_119
+  - first:
+      213: -7453019836003558709
+    second: Lufffy_120
+  - first:
+      213: 280736795248676005
+    second: Lufffy_121
+  - first:
+      213: 1613846180427448229
+    second: Lufffy_122
+  - first:
+      213: 729842364382562015
+    second: Lufffy_123
+  - first:
+      213: 4833809516870900288
+    second: Lufffy_124
+  - first:
+      213: 2801958946342110471
+    second: Lufffy_125
+  - first:
+      213: 5080945394915173638
+    second: Lufffy_126
+  - first:
+      213: 8802194553248727041
+    second: Lufffy_127
+  - first:
+      213: 8271035266735755668
+    second: Lufffy_128
+  - first:
+      213: 5857242071091123293
+    second: Lufffy_129
+  - first:
+      213: -2775383004920651397
+    second: Lufffy_130
+  - first:
+      213: 7653811467417207896
+    second: Lufffy_131
+  - first:
+      213: 705665333259805443
+    second: Lufffy_132
+  - first:
+      213: -8607639952775629705
+    second: Lufffy_133
+  - first:
+      213: 7228786340342803761
+    second: Lufffy_134
+  - first:
+      213: -4659348399254096988
+    second: Lufffy_135
+  - first:
+      213: -1945664897811507407
+    second: Lufffy_136
+  - first:
+      213: 5515438984924423522
+    second: Lufffy_137
+  - first:
+      213: -7154301527863151813
+    second: Lufffy_138
+  - first:
+      213: -5948415952120139584
+    second: Lufffy_139
+  - first:
+      213: -7264974479700056990
+    second: Lufffy_140
+  - first:
+      213: 7659559504799634731
+    second: Lufffy_141
+  - first:
+      213: -2099538175012132355
+    second: Lufffy_142
+  - first:
+      213: -2017506291162391107
+    second: Lufffy_143
+  - first:
+      213: 5848068075893315863
+    second: Lufffy_144
+  - first:
+      213: -2137917269861081624
+    second: Lufffy_145
+  - first:
+      213: -6763911557351080979
+    second: Lufffy_146
+  - first:
+      213: 1062538585548539487
+    second: Lufffy_147
+  - first:
+      213: -5272171400045675052
+    second: Lufffy_148
+  - first:
+      213: 257894266182593074
+    second: Lufffy_149
+  - first:
+      213: -8089964289155638855
+    second: Lufffy_150
+  - first:
+      213: 3177132587769809896
+    second: Lufffy_151
+  - first:
+      213: -929060480587127836
+    second: Lufffy_152
+  - first:
+      213: -5260328794309249995
+    second: Lufffy_153
+  - first:
+      213: -5261162383240272681
+    second: Lufffy_154
+  - first:
+      213: -1821677191278791549
+    second: Lufffy_155
+  - first:
+      213: 432706372128393759
+    second: Lufffy_156
+  - first:
+      213: -317788134931773492
+    second: Lufffy_157
+  - first:
+      213: -3748156165446792623
+    second: Lufffy_158
+  - first:
+      213: -1069534584633691415
+    second: Lufffy_159
+  - first:
+      213: -7919330044828872675
+    second: Lufffy_160
+  - first:
+      213: 5746326988905275432
+    second: Lufffy_161
+  - first:
+      213: 4140656537186980994
+    second: Lufffy_162
+  - first:
+      213: -430584150440642609
+    second: Lufffy_163
+  - first:
+      213: -3535446649798467089
+    second: Lufffy_164
+  - first:
+      213: -2443252523978777051
+    second: Lufffy_165
+  - first:
+      213: -2876061073879356062
+    second: Lufffy_166
+  - first:
+      213: 5931273673929567074
+    second: Lufffy_167
+  - first:
+      213: -2902612578661628253
+    second: Lufffy_168
+  - first:
+      213: -7926559521629878071
+    second: Lufffy_169
+  - first:
+      213: 300560117790425330
+    second: Lufffy_170
+  - first:
+      213: 5828618701956589504
+    second: Lufffy_171
+  - first:
+      213: 4365281560436366475
+    second: Lufffy_172
+  - first:
+      213: -2866755376124148734
+    second: Lufffy_173
+  - first:
+      213: -8052026070462832752
+    second: Lufffy_174
+  - first:
+      213: 7483777791451434609
+    second: Lufffy_175
+  - first:
+      213: 1297423815163997606
+    second: Lufffy_176
+  - first:
+      213: -7490669148306644925
+    second: Lufffy_177
+  - first:
+      213: -2214935923546548237
+    second: Lufffy_178
+  - first:
+      213: 6725992625045460340
+    second: Lufffy_179
+  - first:
+      213: -2698615004827447356
+    second: Lufffy_180
+  - first:
+      213: 6455647724736663234
+    second: Lufffy_181
+  - first:
+      213: -109860603429965570
+    second: Lufffy_182
+  - first:
+      213: 3338172704002572178
+    second: Lufffy_183
+  - first:
+      213: 2304327968169881172
+    second: Lufffy_184
+  - first:
+      213: 3949041594439951524
+    second: Lufffy_185
+  - first:
+      213: 2888333938909598771
+    second: Lufffy_186
+  - first:
+      213: 7731725034756751432
+    second: Lufffy_187
+  - first:
+      213: 7414654819598572137
+    second: Lufffy_188
+  - first:
+      213: 697045208077190178
+    second: Lufffy_189
+  - first:
+      213: -5389769832369772764
+    second: Lufffy_190
+  - first:
+      213: -131849527975779763
+    second: Lufffy_191
+  - first:
+      213: 19871119139676459
+    second: Lufffy_192
+  - first:
+      213: -6486595475300022481
+    second: Lufffy_193
+  - first:
+      213: 3088096723578504492
+    second: Lufffy_194
+  - first:
+      213: 8132938562957618018
+    second: Lufffy_195
+  - first:
+      213: -1122580501941616721
+    second: Lufffy_196
+  - first:
+      213: 469453019004081724
+    second: Lufffy_197
+  - first:
+      213: -954441734812589635
+    second: Lufffy_198
+  - first:
+      213: 6221643546914741667
+    second: Lufffy_199
+  - first:
+      213: 7389442664275111881
+    second: Lufffy_200
+  - first:
+      213: 4296362167419498116
+    second: Lufffy_201
+  - first:
+      213: -1831558173535714396
+    second: Lufffy_202
+  - first:
+      213: -4503334423435192057
+    second: Lufffy_203
+  - first:
+      213: 2916014068838270472
+    second: Lufffy_204
+  - first:
+      213: -7493750068338789663
+    second: Lufffy_205
+  - first:
+      213: -2731782250247423420
+    second: Lufffy_206
+  - first:
+      213: -67877542303478380
+    second: Lufffy_207
+  - first:
+      213: 4676721637235697359
+    second: Lufffy_208
+  - first:
+      213: 1793656200903648449
+    second: Lufffy_209
+  - first:
+      213: 7406870352475013998
+    second: Lufffy_210
+  - first:
+      213: -8103090020232296704
+    second: Lufffy_211
+  - first:
+      213: -1563575522714383428
+    second: Lufffy_212
+  - first:
+      213: 2035604681930712180
+    second: Lufffy_213
+  - first:
+      213: 1354408719691706907
+    second: Lufffy_214
+  - first:
+      213: -8805755692396747215
+    second: Lufffy_215
+  - first:
+      213: -4536330394594863766
+    second: Lufffy_216
+  - first:
+      213: 7515134159868398122
+    second: Lufffy_217
+  - first:
+      213: 5174970757317617475
+    second: Lufffy_218
+  - first:
+      213: -3761770858244207137
+    second: Lufffy_219
+  - first:
+      213: 1654822699681597197
+    second: Lufffy_220
+  - first:
+      213: 6865417207187987070
+    second: Lufffy_221
+  - first:
+      213: 9089928456963105163
+    second: Lufffy_222
+  - first:
+      213: 7368097791293189400
+    second: Lufffy_223
+  - first:
+      213: -4534612176626918274
+    second: Lufffy_224
+  - first:
+      213: 7092513193931794556
+    second: Lufffy_225
+  - first:
+      213: 1263228286802137446
+    second: Lufffy_226
+  - first:
+      213: -6237747895772224908
+    second: Lufffy_227
+  - first:
+      213: 5141531035209090965
+    second: Lufffy_228
+  - first:
+      213: 7976566256902365244
+    second: Lufffy_229
+  - first:
+      213: -1181856832903087947
+    second: Lufffy_230
+  - first:
+      213: -1648555672128022140
+    second: Lufffy_231
+  - first:
+      213: 2305095809067255327
+    second: Lufffy_232
+  - first:
+      213: -5628727665013487337
+    second: Lufffy_233
+  - first:
+      213: -4310860203525080825
+    second: Lufffy_234
+  - first:
+      213: -2188259044947363676
+    second: Lufffy_235
+  - first:
+      213: 951656193474532095
+    second: Lufffy_236
+  - first:
+      213: 6994864670634042103
+    second: Lufffy_237
+  - first:
+      213: 1626288353868928166
+    second: Lufffy_238
+  - first:
+      213: -7682642940703430504
+    second: Lufffy_239
+  - first:
+      213: 7208190760775509861
+    second: Lufffy_240
+  - first:
+      213: -5102140231890088313
+    second: Lufffy_241
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lufffy_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1704
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 500665d6b0539a1a0800000000000000
+      internalID: -6797843839343763451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1704
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37513b466a7835110800000000000000
+      internalID: 1248490670435538291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_2
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1704
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e482bc80b724700800000000000000
+      internalID: 523115784426769991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_3
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1704
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5248db2fe77b897d0800000000000000
+      internalID: -2911375403228756955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_4
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1704
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2fd84c6a1c1ba790800000000000000
+      internalID: -7517884253153468628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_5
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1704
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0fef34cf6ff07e0800000000000000
+      internalID: -1796946162964565819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_6
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1704
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e5a719c9b3ad680800000000000000
+      internalID: -8729599384062632444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_7
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1703
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e78f3766bb1983fa0800000000000000
+      internalID: -5820742284312577922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_8
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1703
+        width: 94
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d71e528f3cf3d2e0800000000000000
+      internalID: -2102059251351545898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_9
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1608
+        width: 94
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc2b3733d1e6d170800000000000000
+      internalID: 8202992068582911185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1657
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07772993cd50080b0800000000000000
+      internalID: -5728572282598426768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_11
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1657
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1468dcead8c5f8fa0800000000000000
+      internalID: -5796312431809690047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_12
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1657
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cbe008b30d071570800000000000000
+      internalID: 8437226736525044673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_13
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1657
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f61f82b20e6892090800000000000000
+      internalID: -8058761760847892113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_14
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1657
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9709c90e0fdde8f0800000000000000
+      internalID: -509505931436292197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_15
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1657
+        width: 46
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab6de76d3679ed70800000000000000
+      internalID: 9072912930423270318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_16
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1657
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2524a12003a50f80800000000000000
+      internalID: -8140921530442570449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_17
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1657
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbed9fe192ac67130800000000000000
+      internalID: 3564258433072488125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_18
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1608
+        width: 94
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f88097a811d7520800000000000000
+      internalID: 2701334637925928762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_19
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 1608
+        width: 94
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fcd286b2cfb66550800000000000000
+      internalID: 6153816783854951673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1607
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 491a6a753d7e310c0800000000000000
+      internalID: -4606083098975231596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_21
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1607
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e04696d49fbe180800000000000000
+      internalID: -9084893712413880820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_22
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1607
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd8d958835ac7d610800000000000000
+      internalID: 1646006648945891547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_23
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1607
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c223437a72c70bb40800000000000000
+      internalID: 5453995658496455212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_24
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1560
+        width: 190
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff6439fc3322dc90800000000000000
+      internalID: -7146610913897582604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_25
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1561
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34550cdc7f36a10c0800000000000000
+      internalID: -4604257753072904893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_26
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1561
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa3a952284bdc4570800000000000000
+      internalID: 8452371703528006575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_27
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1561
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d065fd500401ff0800000000000000
+      internalID: -67483600444584586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_28
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1515
+        width: 142
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e262cb6f6890b00b0800000000000000
+      internalID: -5761500823020624338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_29
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1513
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd1138162137945b0800000000000000
+      internalID: -5383645356762132004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_30
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1513
+        width: 58
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 119494352fb123490800000000000000
+      internalID: -7768115679667336943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_31
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1513
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d3a8ec915de1e90800000000000000
+      internalID: -7052965659599553143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_32
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1482
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1757c1c1025b81d10800000000000000
+      internalID: 2096624776056173937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_33
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1457
+        width: 80
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a31ca077e13dda170800000000000000
+      internalID: 8191435425056473402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_34
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1494
+        width: 36
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e671815e465b3e20800000000000000
+      internalID: 3331351243745490658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_35
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1457
+        width: 90
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66e2dd9d101da6390800000000000000
+      internalID: -7824211596722491802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_36
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 1457
+        width: 83
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f75193054d18a90800000000000000
+      internalID: -7313330878852792554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_37
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1495
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d81cfb135abcae0800000000000000
+      internalID: -1527946015473037993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_38
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1457
+        width: 96
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ff13f60a5c5dac0800000000000000
+      internalID: -3830938615157751940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_39
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1457
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e07e3447fed78c0800000000000000
+      internalID: -3999777611400671678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_40
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1457
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e83c06703214075f0800000000000000
+      internalID: -761036718322170994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_41
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1458
+        width: 41
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36eea6524f602ba10800000000000000
+      internalID: 1923607636510174819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_42
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 1469
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 852ba85d16cd6a390800000000000000
+      internalID: -7807310591247601064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_43
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 1457
+        width: 55
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e754293587b83120800000000000000
+      internalID: 2393864984764635105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_44
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 1457
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9622c84357a5f0d0800000000000000
+      internalID: -3389619168381622625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_45
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1409
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46cc74386c91b6ae0800000000000000
+      internalID: -1555120905929634716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_46
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1408
+        width: 71
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9b3e39ff62fa950800000000000000
+      internalID: 6462426869439642050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_47
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1408
+        width: 92
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a6164202459a9d0800000000000000
+      internalID: -2762584399389037942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_48
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1408
+        width: 86
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13769b597f1c7fca0800000000000000
+      internalID: -5983100310825375951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_49
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1408
+        width: 77
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec8f79660604cfc80800000000000000
+      internalID: -8287678431486281522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_50
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1408
+        width: 107
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d2b6370328b8df50800000000000000
+      internalID: 6906472489157046996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_51
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 1408
+        width: 61
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ca5d70a7a60c900800000000000000
+      internalID: 702678614219795611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_52
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 1408
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ea677c36e84cc20800000000000000
+      internalID: 3225859792303468123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_53
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1361
+        width: 94
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf7942a2b0ffc4370800000000000000
+      internalID: 8308295836008486908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_54
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1361
+        width: 82
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 358f7cce9afc103c0800000000000000
+      internalID: -4395003432607942573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_55
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1361
+        width: 96
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d51bcaab8c679f0800000000000000
+      internalID: -470968406926860938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_56
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 1361
+        width: 92
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2210998f56efc4d0800000000000000
+      internalID: -3112015519485521365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_57
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1361
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc2bd20b643026390800000000000000
+      internalID: -7826689600278121779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_58
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1361
+        width: 68
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e283ad3b4587b1b0800000000000000
+      internalID: -5640893450055089431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_59
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1248
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f4c539b14b5e8e80800000000000000
+      internalID: -8174495935792560903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_60
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1248
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b0e6a6fd07b7d740800000000000000
+      internalID: 5176807567286263984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_61
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1248
+        width: 43
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 556e400a0e388c6b0800000000000000
+      internalID: -5275821962683947435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_62
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1248
+        width: 30
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f546d55707e84bf90800000000000000
+      internalID: -6938764512214555553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_63
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1248
+        width: 30
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d0ff8955f6db950800000000000000
+      internalID: 6466447053403655449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_64
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1248
+        width: 45
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e945c4c6c5baf460800000000000000
+      internalID: 7276328013279873510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_65
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1248
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dba1ea932638c430800000000000000
+      internalID: 3803349411864619992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_66
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1248
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 728003cc186bb7f00800000000000000
+      internalID: 1115686001297066023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_67
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1142
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fda257fcc8e388f0800000000000000
+      internalID: -539331563333964303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_68
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1142
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e06afae81f070c570800000000000000
+      internalID: 8484905880749319694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_69
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1142
+        width: 53
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eabc0419db749840800000000000000
+      internalID: 5229941239558486756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_70
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1142
+        width: 57
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da785aea0f08abf80800000000000000
+      internalID: -8090012009407084627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_71
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1142
+        width: 101
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cebfdb080f1a3c80800000000000000
+      internalID: -8342321240331010364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_72
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1142
+        width: 86
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 552e41197a5c49d90800000000000000
+      internalID: -7091826189717413291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_73
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 1142
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa697bc2e4312670800000000000000
+      internalID: 8512142919387933351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_74
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 1142
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b99eb5e871c67d00800000000000000
+      internalID: 970175494739630513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_75
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1092
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9405f3ae6b25fac0800000000000000
+      internalID: -3822100954556857188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_76
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1092
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81afbfe409c077590800000000000000
+      internalID: -7676653225889760744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_77
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1092
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed754f0b4d3ef5df0800000000000000
+      internalID: -189182156684896290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_78
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1092
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e1ce1fd43ad9d8e0800000000000000
+      internalID: -1668062266347568669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_79
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1092
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c3e40acb3989450800000000000000
+      internalID: 6095784533998582852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_80
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1092
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a671a24b57dd11620800000000000000
+      internalID: 2743217145648912234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_81
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1092
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b4cd900ef6a559a0800000000000000
+      internalID: -6244901698417081164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_82
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1092
+        width: 57
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d8e026c58ae16b50800000000000000
+      internalID: 6584801990467971280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_83
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1097
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e610d9e7129d080800000000000000
+      internalID: -9162255139224850836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_84
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1092
+        width: 49
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fbded45e6d9c9c70800000000000000
+      internalID: 8979224854265781235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_85
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 1092
+        width: 49
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9307cff109cfe0340800000000000000
+      internalID: 4832077146157248569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_86
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1092
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 335e19a4b9ecfca20800000000000000
+      internalID: 3084911436138407219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_87
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1092
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda7e10c47dec2ce0800000000000000
+      internalID: -1428505896088077604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_88
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1026
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf8889e9aafb26000800000000000000
+      internalID: 27795287243786491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_89
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1026
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d5e6c3ccece541e0800000000000000
+      internalID: -2214103140141701679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_90
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1026
+        width: 51
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b2c1e73475306e0800000000000000
+      internalID: -1872557072665793687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_91
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1026
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce88c957da06ffd0800000000000000
+      internalID: -2308645838940238140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_92
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1026
+        width: 54
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde6f997ab5bd9480800000000000000
+      internalID: -8890750276850454817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_93
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1026
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67bcd42bd7e7b4c20800000000000000
+      internalID: 3191783839249582966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_94
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1026
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd99c5606d2ce5e0800000000000000
+      internalID: -1879077052472517133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_95
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 976
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7659d1bdca8bed300800000000000000
+      internalID: 278863279493584231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_96
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 976
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b12d60669f457390800000000000000
+      internalID: -7821257670577544780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_97
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 976
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 799c45a9bb4ffade0800000000000000
+      internalID: -1319567079210956393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_98
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 976
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d95140f934f49a00800000000000000
+      internalID: 762502766613584341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_99
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 861
+        width: 45
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63a1614dd9a2a040800000000000000
+      internalID: 4657471732404298602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_100
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 861
+        width: 39
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c984441c0ee048930800000000000000
+      internalID: 4144453915565639836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_101
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 861
+        width: 39
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9bf6abfa52419600800000000000000
+      internalID: 473232394387127196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_102
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 861
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0662662af5a52d20800000000000000
+      internalID: 3253188799649441290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_103
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 831
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d385478a3c4c66d0800000000000000
+      internalID: -2995935837846928423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_104
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 806
+        width: 80
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d244dd0c49c65a6b0800000000000000
+      internalID: -5285699201502723027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_105
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 843
+        width: 36
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e81cb225cc640e010800000000000000
+      internalID: 1216049742755905934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_106
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 806
+        width: 90
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e4898cceabfc71c0800000000000000
+      internalID: -4504448799102892827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_107
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 806
+        width: 83
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b57f874f9b180ca0800000000000000
+      internalID: -6050555728457927242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_108
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 844
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf9f3a19b42ef52b0800000000000000
+      internalID: -5593503397976999429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_109
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 806
+        width: 96
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a647c68b596e07b0800000000000000
+      internalID: -5256147873270643035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_110
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 806
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca2e95af36ad3d00800000000000000
+      internalID: 954101488364169935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_111
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 806
+        width: 56
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45540eadeece70e50800000000000000
+      internalID: 6775644675020703060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_112
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 806
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c106b4b743d09240800000000000000
+      internalID: 4796565908077543878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_113
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 806
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a563d36e89775920800000000000000
+      internalID: 2978983330995987876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_114
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 807
+        width: 41
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18f21000e6a873860800000000000000
+      internalID: 7509623108714704769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_115
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 818
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca00e3689d10c3390800000000000000
+      internalID: -7837387217759764308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_116
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 806
+        width: 41
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf943293abc8041f0800000000000000
+      internalID: -1062694780609017348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_117
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 759
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 734e9249ebbc09160800000000000000
+      internalID: 7030343037715342391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_118
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 759
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf09374262e7cba0800000000000000
+      internalID: -6068633061128859718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_119
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 759
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8280467496dd18210800000000000000
+      internalID: 1333590408917420072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_120
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 759
+        width: 86
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca511b62fd819890800000000000000
+      internalID: -7453019836003558709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_121
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 759
+        width: 77
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5accd2cb0a065e300800000000000000
+      internalID: 280736795248676005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_122
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 759
+        width: 107
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5afbf72fc88856610800000000000000
+      internalID: 1613846180427448229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_123
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 759
+        width: 61
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd6cd0773cbe02a00800000000000000
+      internalID: 729842364382562015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_124
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 759
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a1efc1524251340800000000000000
+      internalID: 4833809516870900288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_125
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 708
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70503f7f0de82e620800000000000000
+      internalID: 2801958946342110471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_126
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 708
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 605631baae4238640800000000000000
+      internalID: 5080945394915173638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_127
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 708
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 100c4466f4da72a70800000000000000
+      internalID: 8802194553248727041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_128
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 708
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4915386d0ce98c270800000000000000
+      internalID: 8271035266735755668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_129
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 708
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d541cd271aa194150800000000000000
+      internalID: 5857242071091123293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_130
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 708
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b716c049cdbdb79d0800000000000000
+      internalID: -2775383004920651397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_131
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 708
+        width: 45
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 854c63d5afcc73a60800000000000000
+      internalID: 7653811467417207896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_132
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 708
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 303224fb1e60bc900800000000000000
+      internalID: 705665333259805443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_133
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 708
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 774395471158b8880800000000000000
+      internalID: -8607639952775629705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_134
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 657
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d245570eec15460800000000000000
+      internalID: 7228786340342803761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_135
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 657
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a3bca1315ba65fb0800000000000000
+      internalID: -4659348399254096988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_136
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 657
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1379ff1851c9ff4e0800000000000000
+      internalID: -1945664897811507407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_137
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 657
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 265e2c4e886ca8c40800000000000000
+      internalID: 5515438984924423522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_138
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 657
+        width: 71
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b33beaf5aa0d6bc90800000000000000
+      internalID: -7154301527863151813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_139
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 657
+        width: 92
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c0bc95253bf27da0800000000000000
+      internalID: -5948415952120139584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_140
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 657
+        width: 86
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2642333c330ad2b90800000000000000
+      internalID: -7264974479700056990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_141
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 657
+        width: 77
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b259c8b99c83c4a60800000000000000
+      internalID: 7659559504799634731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_142
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 657
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df9a7065721fcd2e0800000000000000
+      internalID: -2099538175012132355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_143
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 657
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd5627a7b06004e0800000000000000
+      internalID: -2017506291162391107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_144
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 657
+        width: 45
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7195ced3ee2882150800000000000000
+      internalID: 5848068075893315863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_145
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 580
+        width: 46
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8edd1caf1979452e0800000000000000
+      internalID: -2137917269861081624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_146
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 580
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: debfdeb7642c122a0800000000000000
+      internalID: -6763911557351080979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_147
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 580
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5644c7c635eebe00800000000000000
+      internalID: 1062538585548539487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_148
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 580
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ddbd497b0c75d6b0800000000000000
+      internalID: -5272171400045675052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_149
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 580
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a6c6df779349300800000000000000
+      internalID: 257894266182593074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_150
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 580
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b9584b675caabf80800000000000000
+      internalID: -8089964289155638855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_151
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 580
+        width: 46
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb46526141771c20800000000000000
+      internalID: 3177132587769809896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_152
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 580
+        width: 55
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e320cf4a605b13f0800000000000000
+      internalID: -929060480587127836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_153
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 580
+        width: 56
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 534307df4de8ff6b0800000000000000
+      internalID: -5260328794309249995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_154
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 580
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d4e051ffa89cf6b0800000000000000
+      internalID: -5261162383240272681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_155
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 580
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38475660f3a18b6e0800000000000000
+      internalID: -1821677191278791549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_156
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 581
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1ac2c22728410600800000000000000
+      internalID: 432706372128393759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_157
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 526
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc7ce8fff5df69bf0800000000000000
+      internalID: -317788134931773492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_158
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 526
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a8adb73dfdbfbc0800000000000000
+      internalID: -3748156165446792623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_159
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 526
+        width: 51
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e2f9ef36ff3821f0800000000000000
+      internalID: -1069534584633691415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_160
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 526
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1095ea5843e81290800000000000000
+      internalID: -7919330044828872675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_161
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 476
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82060f873fd0fbf40800000000000000
+      internalID: 5746326988905275432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_162
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 476
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 284dde3be21967930800000000000000
+      internalID: 4140656537186980994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_163
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 476
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc7721b1ff1460af0800000000000000
+      internalID: -430584150440642609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_164
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 476
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe1ea6ce0029feec0800000000000000
+      internalID: -3535446649798467089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_165
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 476
+        width: 48
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e1bab36c2d71ed0800000000000000
+      internalID: -2443252523978777051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_166
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 476
+        width: 48
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26da71bf0bd2618d0800000000000000
+      internalID: -2876061073879356062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_167
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 488
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ba2303bfd105250800000000000000
+      internalID: 5931273673929567074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_168
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 476
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a60b480d39d7b7d0800000000000000
+      internalID: -2902612578661628253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_169
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 476
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c8c24e9c143ff190800000000000000
+      internalID: -7926559521629878071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_170
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 413
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f04c8ea5ddcb2400800000000000000
+      internalID: 300560117790425330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_171
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 413
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c7225df3d963e050800000000000000
+      internalID: 5828618701956589504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_172
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 413
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c5f527378949c30800000000000000
+      internalID: 4365281560436366475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_173
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 450
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 204cd249c2d3738d0800000000000000
+      internalID: -2866755376124148734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_174
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 413
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09fd0eb43f4714090800000000000000
+      internalID: -8052026070462832752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_175
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 450
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e8b652048bbd760800000000000000
+      internalID: 7483777791451434609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_176
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 413
+        width: 62
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad6bf9f510610210800000000000000
+      internalID: 1297423815163997606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_177
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 413
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 340643dc81ccb0890800000000000000
+      internalID: -7490669148306644925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_178
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 413
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f791c44387f241e0800000000000000
+      internalID: -2214935923546548237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_179
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 413
+        width: 51
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4755bb918a6875d50800000000000000
+      internalID: 6725992625045460340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_180
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 350
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf88b373f79c8ad0800000000000000
+      internalID: -2698615004827447356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_181
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 350
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ceccf3f661179950800000000000000
+      internalID: 6455647724736663234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_182
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 350
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef03fbdfc52b97ef0800000000000000
+      internalID: -109860603429965570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_183
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 350
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f7afc4362935e20800000000000000
+      internalID: 3338172704002572178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_184
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 350
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e63c4041e9aff10800000000000000
+      internalID: 2304327968169881172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_185
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 350
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4e5df3860ddc630800000000000000
+      internalID: 3949041594439951524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_186
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 350
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33459651a6c651820800000000000000
+      internalID: 2888333938909598771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_187
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 350
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 840cba564fa9c4b60800000000000000
+      internalID: 7731725034756751432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_188
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 350
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a9f4e164526e660800000000000000
+      internalID: 7414654819598572137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_189
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 350
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22444d37ce66ca900800000000000000
+      internalID: 697045208077190178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_190
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 350
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 427ab78c4e0b335b0800000000000000
+      internalID: -5389769832369772764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_191
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 350
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4263398d839b2ef0800000000000000
+      internalID: -131849527975779763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_192
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 287
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b212c957da8964000800000000000000
+      internalID: 19871119139676459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_193
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 287
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f27061d58cbfaf5a0800000000000000
+      internalID: -6486595475300022481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_194
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 287
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c25c1f0db9f1bda20800000000000000
+      internalID: 3088096723578504492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_195
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 287
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b2a2968800ed070800000000000000
+      internalID: 8132938562957618018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_196
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 287
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf7dfd2bfacb60f0800000000000000
+      internalID: -1122580501941616721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_197
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 287
+        width: 43
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3619749805d38600800000000000000
+      internalID: 469453019004081724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_198
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 287
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db120bd8c4421c2f0800000000000000
+      internalID: -954441734812589635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_199
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 287
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad54fc97d7b75650800000000000000
+      internalID: 6221643546914741667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_200
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 287
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cfeb34c3f29c8660800000000000000
+      internalID: 7389442664275111881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_201
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 287
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e677fc0aebf9b30800000000000000
+      internalID: 4296362167419498116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_202
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 288
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a3c0f09b8ff496e0800000000000000
+      internalID: -1831558173535714396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_203
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 287
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7095b5a9331f081c0800000000000000
+      internalID: -4503334423435192057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_204
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 287
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 806852d8853c77820800000000000000
+      internalID: 2916014068838270472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_205
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 287
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e27b15340ad00890800000000000000
+      internalID: -7493750068338789663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_206
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 231
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44af84a5482c61ad0800000000000000
+      internalID: -2731782250247423420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_207
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 231
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d46c22cb9de0ff0800000000000000
+      internalID: -67877542303478380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_208
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 231
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc621dcfc8d07e040800000000000000
+      internalID: 4676721637235697359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_209
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 231
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c4e900cfc854e810800000000000000
+      internalID: 1793656200903648449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_210
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 231
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6345a0a75d7ac660800000000000000
+      internalID: 7406870352475013998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_211
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 165
+        width: 57
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0078a010f8a0c8f80800000000000000
+      internalID: -8103090020232296704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_212
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 165
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb0d15a8501d4ae0800000000000000
+      internalID: -1563575522714383428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_213
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 165
+        width: 61
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4742a915cabef3c10800000000000000
+      internalID: 2035604681930712180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_214
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 165
+        width: 61
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b127ae9fd83dbc210800000000000000
+      internalID: 1354408719691706907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_215
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 165
+        width: 78
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13661d74adbabc580800000000000000
+      internalID: -8805755692396747215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_216
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 165
+        width: 76
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a659d566a87bb01c0800000000000000
+      internalID: -4536330394594863766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_217
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 165
+        width: 78
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a0c5693be1b4860800000000000000
+      internalID: 7515134159868398122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_218
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 165
+        width: 76
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34763f05c7031d740800000000000000
+      internalID: 5174970757317617475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_219
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 165
+        width: 75
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd00fbc5518bcbc0800000000000000
+      internalID: -3761770858244207137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_220
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 106
+        width: 73
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0746cc4a7c17f610800000000000000
+      internalID: 1654822699681597197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_221
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 106
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a5b4d439cd64f50800000000000000
+      internalID: 6865417207187987070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_222
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 106
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b81200765c9e52e70800000000000000
+      internalID: 9089928456963105163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_223
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 106
+        width: 78
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81dee5047edb04660800000000000000
+      internalID: 7368097791293189400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_224
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 106
+        width: 76
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7cddf13042d111c0800000000000000
+      internalID: -4534612176626918274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_225
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 106
+        width: 78
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7863111c2bad6260800000000000000
+      internalID: 7092513193931794556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_226
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 106
+        width: 53
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66111191f63e78110800000000000000
+      internalID: 1263228286802137446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_227
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 106
+        width: 72
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4726e0a76511f69a0800000000000000
+      internalID: -6237747895772224908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_228
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 47
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 597c84b4c336a5740800000000000000
+      internalID: 5141531035209090965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_229
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 47
+        width: 57
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c30680ebfb472be60800000000000000
+      internalID: 7976566256902365244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_230
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 47
+        width: 53
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b87173e873399fe0800000000000000
+      internalID: -1181856832903087947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_231
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4899a52c9572f19e0800000000000000
+      internalID: -1648555672128022140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_232
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1602b8ec685dff10800000000000000
+      internalID: 2305095809067255327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_233
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 719057dc20eb2e1b0800000000000000
+      internalID: -5628727665013487337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_234
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 709f48c1c7fbc24c0800000000000000
+      internalID: -4310860203525080825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_235
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1
+        width: 46
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a870651efdb1a1e0800000000000000
+      internalID: -2188259044947363676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_236
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1
+        width: 48
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff299501446f43d00800000000000000
+      internalID: 951656193474532095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_237
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f262198b50c21160800000000000000
+      internalID: 6994864670634042103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_238
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 1
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a456b234acb19610800000000000000
+      internalID: 1626288353868928166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_239
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1
+        width: 46
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 898a53723f4c16590800000000000000
+      internalID: -7682642940703430504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_240
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 567e6496e43a80460800000000000000
+      internalID: 7208190760775509861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lufffy_241
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 202
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e46fbcd7e8139b0800000000000000
+      internalID: -5102140231890088313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

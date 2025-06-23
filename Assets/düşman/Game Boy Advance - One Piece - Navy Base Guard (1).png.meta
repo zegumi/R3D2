@@ -1,0 +1,600 @@
+fileFormatVersion: 2
+guid: 1f989cacfd08e5d4da5808562bf12455
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3933876934305369709
+    second: Game Boy Advance - One Piece - Navy Base Guard (1)_14
+  - first:
+      213: -2283294417194083386
+    second: Game Boy Advance - One Piece - Navy Base Guard (1)_29
+  - first:
+      213: -4717774103256344183
+    second: Game Boy Advance - One Piece - Navy Base Guard (1)_30
+  - first:
+      213: -5744749750963540227
+    second: Game Boy Advance - One Piece - Navy Base Guard (1)_31
+  - first:
+      213: 3669752756819701053
+    second: Game Boy Advance - One Piece - Navy Base Guard (1)_35
+  - first:
+      213: 1303486001122407261
+    second: Game Boy Advance - One Piece - Navy Base Guard (1)_36
+  - first:
+      213: 5381761580651105706
+    second: Game Boy Advance - One Piece - Navy Base Guard (1)_37
+  - first:
+      213: 8098943217212270348
+    second: Game Boy Advance - One Piece - Navy Base Guard (1)_38
+  - first:
+      213: 1035060805420398326
+    second: Game Boy Advance - One Piece - Navy Base Guard (1)_39
+  - first:
+      213: -384028691976359521
+    second: Game Boy Advance - One Piece - Navy Base Guard (1)_43
+  - first:
+      213: 2341035869813356437
+    second: Game Boy Advance - One Piece - Navy Base Guard (1)_44
+  - first:
+      213: 6292425438562781576
+    second: Game Boy Advance - One Piece - Navy Base Guard (1)_45
+  - first:
+      213: 2791891620676712195
+    second: Game Boy Advance - One Piece - Navy Base Guard (1)_46
+  - first:
+      213: 8135512856574936490
+    second: Game Boy Advance - One Piece - Navy Base Guard (1)_53
+  - first:
+      213: -2431140561199302169
+    second: Game Boy Advance - One Piece - Navy Base Guard (1)_54
+  - first:
+      213: -4036486215711195627
+    second: Game Boy Advance - One Piece - Navy Base Guard (1)_55
+  - first:
+      213: 7331671669647685157
+    second: Game Boy Advance - One Piece - Navy Base Guard (1)_56
+  - first:
+      213: -3183204217825888844
+    second: Game Boy Advance - One Piece - Navy Base Guard (1)_59
+  - first:
+      213: -3735248469982647528
+    second: Game Boy Advance - One Piece - Navy Base Guard (1)_60
+  - first:
+      213: 7329579111824207251
+    second: Game Boy Advance - One Piece - Navy Base Guard (1)_61
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Navy Base Guard (1)_14
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 462
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39130a455cf0869c0800000000000000
+      internalID: -3933876934305369709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Navy Base Guard (1)_29
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 390
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb938133db1050e0800000000000000
+      internalID: -2283294417194083386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Navy Base Guard (1)_30
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 391
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9895edce279178eb0800000000000000
+      internalID: -4717774103256344183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Navy Base Guard (1)_31
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 390
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfeed4ad98c8640b0800000000000000
+      internalID: -5744749750963540227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Navy Base Guard (1)_35
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 314
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3dafbb60b49de230800000000000000
+      internalID: 3669752756819701053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Navy Base Guard (1)_36
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 314
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d537892ac99e61210800000000000000
+      internalID: 1303486001122407261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Navy Base Guard (1)_37
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 314
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aadcd80d4abdfaa40800000000000000
+      internalID: 5381761580651105706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Navy Base Guard (1)_38
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 313
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c072ffd22f9356070800000000000000
+      internalID: 8098943217212270348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Navy Base Guard (1)_39
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 313
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f6330c81564d5e00800000000000000
+      internalID: 1035060805420398326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Navy Base Guard (1)_43
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 231
+        width: 30
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f91f03770f7abaaf0800000000000000
+      internalID: -384028691976359521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Navy Base Guard (1)_44
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 232
+        width: 31
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5973ca268b70d7020800000000000000
+      internalID: 2341035869813356437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Navy Base Guard (1)_45
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 232
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8898a21099f235750800000000000000
+      internalID: 6292425438562781576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Navy Base Guard (1)_46
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 230
+        width: 27
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30733dd03aaceb620800000000000000
+      internalID: 2791891620676712195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Navy Base Guard (1)_53
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 156
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa5c5c9d6d527e070800000000000000
+      internalID: 8135512856574936490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Navy Base Guard (1)_54
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 155
+        width: 45
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9fba25a8ad24ed0800000000000000
+      internalID: -2431140561199302169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Navy Base Guard (1)_55
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 162
+        width: 55
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ef5cb4c258bf7c0800000000000000
+      internalID: -4036486215711195627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Navy Base Guard (1)_56
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 161
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5263527e9845fb560800000000000000
+      internalID: 7331671669647685157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Navy Base Guard (1)_59
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 86
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b576f411acf2d3d0800000000000000
+      internalID: -3183204217825888844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Navy Base Guard (1)_60
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 86
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81becd68e4bb92cc0800000000000000
+      internalID: -3735248469982647528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Navy Base Guard (1)_61
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 86
+        width: 51
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39da7615e55e7b560800000000000000
+      internalID: 7329579111824207251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
